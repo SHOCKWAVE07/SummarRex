@@ -1,5 +1,7 @@
+# interface.py
 import gradio as gr
 from chatbot.logic import CustomChatGPT
+
 
 def launch_interface(roles, role_selected):
     iface = gr.Interface(
