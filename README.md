@@ -1,6 +1,8 @@
 # SummaRex - Your Personalized Chatbot
 
-### Live Link : 
+### User Interface
+<img width="960" alt="image" src="https://github.com/SHOCKWAVE07/SummarRex/assets/74625124/6bf6c8b4-db19-4d41-81df-e936ab52a49e">
+
 
 ## Overview
 SummaRex is an intelligent chatbot powered by the OpenAI GPT-3.5 Turbo model, fine-tuned to provide personalized financial advice and handle your personal information with care. In the era of big data, information overload has become a significant challenge. SummaRex aims to solve the information overload problem, making it easier for individuals and professionals to stay informed, make informed decisions, and access relevant content quickly.
