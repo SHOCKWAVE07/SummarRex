@@ -1,4 +1,5 @@
-# roles.py
+with open('SOCIAL', 'r') as file:
+    social = file.read()
 
 roles = {
     "Programmer": {
@@ -18,11 +19,11 @@ roles = {
         "model": "ft:gpt-3.5-turbo-0613:personal::856a6IE6",
     },
     "Default": {
-        "description": "An Average Human Being",
+        "description": "",
         "model": "gpt-3.5-turbo",
     },
     "Personalized": {
-        "description": "An Average Human Being",
+        "description": social,
         "model": "ft:gpt-3.5-turbo-0613:personal::856xPFIF",
     },
 }
